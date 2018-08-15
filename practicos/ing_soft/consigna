@@ -1,0 +1,27 @@
++ ¿Que es la ingenieria del software y cual es su relacion con la Ciencia de la Computación?
+
+
++ ¿En qué difieren la ingenieria del software de otras ingenierias mas tradicionales como la ingenieria mecanica o la ingenieria civil?
+
++ Si el objetivo principal es hacer al software mantenible, liste algunas de las cosas que usted harıa y algunas de las
+cosas que no harıa durante la implementacion y el testing.
+
++ Liste algunos de los problemas que surgirían si los métodos que usted utiliza para desarrollar aplicaciones pequeñas
+son utilizados para desarrollar grandes aplicaciones.
+
++ Los atributos de calidad de software pueden clasificarse en externos (observables por los usuarios del software) e
+internos (concernientes a los desarrolladores). Clasifique los seis atributos de calidad fundamentales mencionados en el
+capítulo 1 de “An Integrated Approach to Software Engineering”(Jalote).
+
++ En el capítulo 1 de “An Integrated Approach to Software Engineering”(Jalote) se explica que una medida comunmente
+utilizada para la calidad es defectos por KLOC en el software entregado. Para un producto de software dado,
+¿cómo puede medirse su calidad? ¿cómo puede ser estimada su calidad antes de ser entregado?
+
++ Suponga que durante el desarrollo de un proyecto de software se le diera tiempo extra para mejorar la confiabilidad
+del producto final. ¿En qué utilizaría ese tiempo extra?
+
++ ¿De que manera un proceso separado en fases ayuda en la obtención de alta Q & P (calidad y productividad)?
+Cuándo parece que estamos haciendo más tareas en un proceso por fases que en uno ad-hoc?
+
++ Entre los atributos de calidad enumerados en el capítulo 1 de “An Integrated Approach to Software Engineering”
+(Jalote) no se encuentra la reutilizabilidad. Defina este atributo, y describa cuál es la relación entre éste y portabilidad.
