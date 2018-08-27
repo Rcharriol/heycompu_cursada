@@ -1,0 +1,46 @@
++ ¿Que es la ingenieria del software y cual es su relacion con la Ciencia de la Computación?
+La Ing.d.S. consiste en la aplicacion de un enfoque sistematico y cuantificable al desarrollo, operacion y mantenimiento del software.
+Su relacion con las ciencias de la computacion esta en que el estudio de dicho enfoque integra conceptos y practicas de la materia en los origenes de la ingenieria.
+La ingenieria del software es una subarea de las cs. de la computacion.
+
++ ¿En qué difieren la ingenieria del software de otras ingenierias mas tradicionales como la ingenieria mecanica o la ingenieria civil?
+
+La ingenieria es conocida por buscar soluciones a problemas, pero la diferencia de la IS con las demas es que los problemas que trata existen desde un principio en el producto. La ingenieria mecanica o otras suelen tratar con problemas generados con el paso del tiempo o el uso cotidiano.
+
++ Si el objetivo principal es hacer al software mantenible, liste algunas de las cosas que usted harıa y algunas de las
+cosas que no harıa durante la implementacion y el testing.
+
+Se puede hacer mantenimiento colectivo, consta de buscar y tratar errores residuales que se van arrastrando en el desarrollo, tambien mantenimiento adaptativo, adaptando el software al entorno y viceversa. Este ultimo sirve para el testing. En la etapa de implementacion es importante software entendible. Para ello podra ayudar tener una buena documentacion. Una mala practica durante el desarrollo del software seria no enfocarse bien en hacer entendible dicho producto y no tener en cuenta que van a realizarse eventualmente modificaciones
+
++ Liste algunos de los problemas que surgirían si los métodos que usted utiliza para desarrollar aplicaciones pequeñas
+son utilizados para desarrollar grandes aplicaciones.
+
+Puede haber problemas de eficiencia, errores en calculo que en pequeña escala no importan, habria toda clase de errores porque el desarrollo seria completamente distinto.
+
++ Los atributos de calidad de software pueden clasificarse en externos (observables por los usuarios del software) e
+internos (concernientes a los desarrolladores). Clasifique los seis atributos de calidad fundamentales mencionados en el
+capítulo 1 de “An Integrated Approach to Software Engineering”(Jalote).
+
+Externos: Funcionabilidad, usabilidad, eficiencia
+Internos: Mantenibilidad, portabilidad, confiabilidad
+
++ En el capítulo 1 de “An Integrated Approach to Software Engineering”(Jalote) se explica que una medida comunmente
+utilizada para la calidad es defectos por KLOC en el software entregado. Para un producto de software dado,
+¿cómo puede medirse su calidad? ¿cómo puede ser estimada su calidad antes de ser entregado?
+
+La cantidad de defectos suele ser el principal criterio para la calidad, otra forma seria analizar que tanto cumple con cada uno de los requerimientos de la srs y el factor final seria que tan satisfecho esta con el producto tanto el cliente como el usuario.
+
++ Suponga que durante el desarrollo de un proyecto de software se le diera tiempo extra para mejorar la confiabilidad
+del producto final. ¿En qué utilizaría ese tiempo extra?
+
+Podria ser usado en testing, o el agregar features, o en hacer un front end mas agradable, pulir la especificacion, en realidad depende mucho del producto en si y que me parezca mejor en el momento hacer con ese extra time.
+
++ ¿De que manera un proceso separado en fases ayuda en la obtención de alta Q & P (calidad y productividad)?
+Cuándo parece que estamos haciendo más tareas en un proceso por fases que en uno ad-hoc?
+
+Al dividir por fases, cada una esta bien definida, permite al grupo concentrarse en una cosa, deja hechar culpas, una vez terminado puede ser testeado para evitar arrastrar errores, verificando la calidad y el progreso del producto al finalizar cada fase.
+
++ Entre los atributos de calidad enumerados en el capítulo 1 de “An Integrated Approach to Software Engineering”
+(Jalote) no se encuentra la reutilizabilidad. Defina este atributo, y describa cuál es la relación entre éste y portabilidad.
+
+Puede referirse a que tu software es adaptable y puede usarse para algo para lo que no estaba previsto, o en terminos de codigo que esta tan bien modularizado que podes reutilizar fragmentos apenas modificandolos y que en un entorno completamente diferente el modulo ese anda igual de bien
